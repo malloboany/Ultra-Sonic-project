@@ -1,0 +1,66 @@
+﻿Build started 3/14/2016 7:30:04 PM.
+     1>Project "D:\3rd year\Sci-Cal\Ultrasonic project\voice waves\voice waves\voice waves\voice waves.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\VS13\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.DirectoryServices.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib main.cpp
+         main.cpp
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\physics .h(5): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+                 This diagnostic occurred in the compiler generated function 'void physics::physics(void)'
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\physics .h(6): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+                 This diagnostic occurred in the compiler generated function 'void physics::physics(void)'
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\physics .h(7): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+                 This diagnostic occurred in the compiler generated function 'void physics::physics(void)'
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(739): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(740): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(742): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(743): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(744): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(745): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(746): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(750): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(755): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(760): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(772): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(779): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(784): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(793): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(794): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(801): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(588): warning C4018: '<' : signed/unsigned mismatch
+     1>main.cpp(893): warning C4018: '<' : signed/unsigned mismatch
+         E:\VS13\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm- /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.DirectoryServices.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp
+         MyForm.cpp
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\physics .h(5): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+                 This diagnostic occurred in the compiler generated function 'void physics::physics(void)'
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\physics .h(6): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+                 This diagnostic occurred in the compiler generated function 'void physics::physics(void)'
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\physics .h(7): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+                 This diagnostic occurred in the compiler generated function 'void physics::physics(void)'
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(739): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(740): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(742): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(743): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(744): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(745): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(746): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(750): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(755): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(760): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(772): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(779): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(784): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(793): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(794): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\3rd year\sci-cal\ultrasonic project\voice waves\voice waves\voice waves\MyForm.h(801): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         E:\VS13\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\3rd year\Sci-Cal\Ultrasonic project\voice waves\voice waves\Debug\voice waves.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /ASSEMBLYRESOURCE:Debug\voicewaves.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\3rd year\Sci-Cal\Ultrasonic project\voice waves\voice waves\Debug\voice waves.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\main.obj
+         Debug\MyForm.obj
+         "Debug\physics .obj"
+         Debug\vec3f.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+     1>LINK : warning LNK4067: ambiguous entry point; selected 'mainCRTStartup'
+         voice waves.vcxproj -> D:\3rd year\Sci-Cal\Ultrasonic project\voice waves\voice waves\Debug\voice waves.exe
+     1>Done Building Project "D:\3rd year\Sci-Cal\Ultrasonic project\voice waves\voice waves\voice waves\voice waves.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.89
